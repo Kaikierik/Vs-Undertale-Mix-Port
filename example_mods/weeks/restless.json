@@ -1,0 +1,28 @@
+{
+	"storyName": "muffy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "muffet",
+	"freeplayColor": [
+		55, 255, 0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"restless",
+			"muffet",
+			[
+				55, 255, 0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "dad-battle"
+}

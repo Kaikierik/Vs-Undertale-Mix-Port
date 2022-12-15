@@ -1,0 +1,28 @@
+{
+	"storyName": "hypothermia",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "hypothermia",
+	"freeplayColor": [
+		55, 255, 0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hypothermia",
+			"papyrus",
+			[
+				55, 255, 0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "dad-battle"
+}
