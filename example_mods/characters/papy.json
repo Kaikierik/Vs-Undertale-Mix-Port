@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "papy idle"
+		},
+		{
+			"offsets": [
+				-69,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "papy left"
+		},
+		{
+			"offsets": [
+				9,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "papy down"
+		},
+		{
+			"offsets": [
+				-81,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "papy up"
+		},
+		{
+			"offsets": [
+				-61,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "papy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/papy",
+	"position": [
+		-230,
+		-210
+	],
+	"healthicon": "papy",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		211,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}
