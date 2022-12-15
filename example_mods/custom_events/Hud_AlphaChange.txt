@@ -1,0 +1,2 @@
+value1=New Alpha
+value2=time

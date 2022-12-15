@@ -1,0 +1,2 @@
+Value 1: snowflake intensity (default 0.2)
+Value 2: time in steps
